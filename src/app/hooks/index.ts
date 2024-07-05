@@ -1,5 +1,5 @@
 import { getMovies } from "app/services/movies";
-import { useEffect, useState } from "react";
+import { useCallback, useEffect, useState } from "react";
 import { CgPentagonLeft } from "react-icons/cg";
 
 export const useFecthMovies = () => {
@@ -7,18 +7,18 @@ export const useFecthMovies = () => {
   const [movie, setMovie] = useState<Movie>();
   const [page, setPage] = useState<number>(1);
 
-  const getAllMovies = async (movieName: string = "") => {
+  const getAllMovies = useCallback(async (movieName: string = "") => {
     try {
       const movies = await getMovies(movieName ? "search":"discover", movieName, page);      
       setMovies(movies);
     } catch (error) {
       console.log(error);
     };
-  };
+  }, [page]);
 
   useEffect(() => {
     getAllMovies();
-  }, [page]);
+  }, [page, getAllMovies]);
 
   return {
     movies,

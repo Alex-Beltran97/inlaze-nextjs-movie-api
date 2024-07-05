@@ -2,7 +2,6 @@
 import { useMyContext } from 'app/context/MyContext';
 import { Input } from 'app/shadcn-components/components/ui/input';
 import React, { FormEvent, useRef } from 'react';
-import { BsSearch } from 'react-icons/bs';
 
 const SearchFormComponent = () => {
 
