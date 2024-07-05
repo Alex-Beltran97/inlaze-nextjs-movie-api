@@ -1,7 +1,7 @@
 import instance from "app/services/http";
 import { NextRequest, NextResponse } from "next/server";
 
-const baseUrl = "MOVIES_BASE_URL";
+const baseUrl = "https://api.themoviedb.org/3";
 const path = "/movie?query=";
 
 export const GET = async (req: NextRequest, { params }: { params: { type: string } }) => {
