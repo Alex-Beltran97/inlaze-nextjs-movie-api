@@ -4,7 +4,7 @@ import { useMyContext } from 'app/context/MyContext';
 import { useRouter } from 'next/navigation';
 import React from 'react';
 
-const page = () => {
+const MyPage = () => {
   const rounter = useRouter();
 
   const { movies } = useMyContext();
@@ -45,4 +45,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default MyPage;
