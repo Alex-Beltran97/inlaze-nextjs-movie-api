@@ -1,6 +1,5 @@
 import { getMovies } from "app/services/movies";
 import { useCallback, useEffect, useState } from "react";
-import { CgPentagonLeft } from "react-icons/cg";
 
 export const useFecthMovies = () => {
   const [movies, setMovies] = useState<Movie[]>([]);
