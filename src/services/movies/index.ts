@@ -1,6 +1,6 @@
 import instance from "../http";
 
-const baseUrl = `http://${ process.env.NEXT_PUBLIC_HOST_URL }/api`;
+const baseUrl = `${ process.env.NEXT_PUBLIC_HOST_URL }api`;
 const path = "/movies";
 const images_path = "https://image.tmdb.org/t/p/original";
 
