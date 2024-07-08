@@ -39,7 +39,7 @@ This is a web app, developed with the API "The Movie DB" to show the list of the
 
 # Guide
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/e4fa48df-d07a-4abf-8ed2-f2b11695288e/f62ef4fb-f97a-4a76-ac30-33e1b46e1815/Untitled.png)
+![home](https://res.cloudinary.com/duzyd4ju7/image/upload/v1720470935/Untitled_vriugh.png)
 
 - Home Button:
 
@@ -61,12 +61,12 @@ By clicking on the cover you can navigate to the detailed information of each mo
 
 ## Movie detail page:
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/e4fa48df-d07a-4abf-8ed2-f2b11695288e/880aa09e-efe5-415c-8904-663d058b42b2/Untitled.png)
+![details](https://res.cloudinary.com/duzyd4ju7/image/upload/v1720471039/Untitled_1_lvzsit.png)
 
 ---
 
 ## Looking for a Movie:
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/e4fa48df-d07a-4abf-8ed2-f2b11695288e/f1790c1a-cf26-49d4-83e7-0e039b0f83fb/Untitled.png)
+![search](https://res.cloudinary.com/duzyd4ju7/image/upload/v1720471039/Untitled1_qhgyww.png)
 
 ---
