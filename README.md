@@ -1,23 +1,20 @@
----
+### Presentación:
 
-### Presentacion:
+Buen día a todos. Reciban un cordial saludo. A continuación adjunto los enlaces relacionados con el deploy del proyecto y el enlace del repositorio:
 
-Buen dia a todos. Reciban un cordial saludo. A continuacion adjunto los enlaces relacionados con el deploy del proyecto y el enlace del repositorio:
+- Repositorio GitHub: [https://github.com/Alex-Beltran97/inlaze-nextjs-movie-api/tree/master/src/appE](https://github.com/Alex-Beltran97/inlaze-nextjs-movie-api/tree/master/src/appE)
+- Enlace proyecto desplegado: [https://inlaze-nextjs-movie-api.vercel.app/](https://inlaze-nextjs-movie-api.vercel.app/)
 
-- Repositorio GitHub: https://github.com/Alex-Beltran97/inlaze-nextjs-movie-api/tree/master/src/appE
-- Enlace proyecto deplegado: https://inlaze-nextjs-movie-api.vercel.app/
-
-Agradezco de antemano su atencio prestada y quedo atento asus comentarios.
+Agradezco de antemano su atención prestada y quedo atento a sus comentarios.
 
 Cordialmente, 
 
 Pedro Alexander Beltran Hernandez
 
-LinkedIn: https://www.linkedin.com/in/alexanderbeltran97/
+LinkedIn: [https://www.linkedin.com/in/alexanderbeltran97/](https://www.linkedin.com/in/alexanderbeltran97/)
 
-GitHub: https://github.com/Alex-Beltran97
+GitHub: [https://github.com/Alex-Beltran97](https://github.com/Alex-Beltran97)
 
----
 
 # MoBee - Movies Web Page
 
