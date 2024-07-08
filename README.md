@@ -1,36 +1,72 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+---
 
-## Getting Started
+### Presentacion:
 
-First, run the development server:
+Buen dia a todos. Reciban un cordial saludo. A continuacion adjunto los enlaces relacionados con el deploy del proyecto y el enlace del repositorio:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Repositorio GitHub: https://github.com/Alex-Beltran97/inlaze-nextjs-movie-api/tree/master/src/appE
+- Enlace proyecto deplegado: https://inlaze-nextjs-movie-api.vercel.app/
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Agradezco de antemano su atencio prestada y quedo atento asus comentarios.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Cordialmente, 
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Pedro Alexander Beltran Hernandez
 
-## Learn More
+LinkedIn: https://www.linkedin.com/in/alexanderbeltran97/
 
-To learn more about Next.js, take a look at the following resources:
+GitHub: https://github.com/Alex-Beltran97
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+# MoBee - Movies Web Page
 
-## Deploy on Vercel
+This is a web app, developed with the API "The Movie DB" to show the list of the most recent and most popular movies, as well as their basic information.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# Technologies used
+
+- Next.js 14
+- Node.js - v20.12.1
+- Tailwind CSS - v3.4.4
+- Typescript - v5
+- Axios - v1.7.2
+- Moment - v2.30.1
+- Shadcn/UI - v**0.8.0**
+
+---
+
+# Guide
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/e4fa48df-d07a-4abf-8ed2-f2b11695288e/f62ef4fb-f97a-4a76-ac30-33e1b46e1815/Untitled.png)
+
+- Home Button:
+
+The Home button icon redirects to the home page from wherever we are.
+
+- Search Button:
+
+The search icon allows us to search for a movie by name.
+
+- Previous Page Button & Next Page Button:
+
+These buttons function as pagers to navigate between the results of the subscribed API service.
+
+- Movie Cover Button:
+
+By clicking on the cover you can navigate to the detailed information of each movie.
+
+---
+
+## Movie detail page:
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/e4fa48df-d07a-4abf-8ed2-f2b11695288e/880aa09e-efe5-415c-8904-663d058b42b2/Untitled.png)
+
+---
+
+## Looking for a Movie:
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/e4fa48df-d07a-4abf-8ed2-f2b11695288e/f1790c1a-cf26-49d4-83e7-0e039b0f83fb/Untitled.png)
+
+---
